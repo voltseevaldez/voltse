@@ -1,0 +1,382 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100&family=Righteous&family=Roboto:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+body {
+    background-color: #191414;
+    margin: 0;
+}
+a {
+    text-decoration: none;
+    color: #191414;
+    font-family: 'Roboto';
+    font-size: 20px;
+    font-weight: 600;
+}
+nav ul li {
+    display: inline-block;
+    padding: 0 10px 10px 0;
+}
+nav {
+    text-align: center;
+    background-color: #f4f2ec;
+    box-shadow: 0 2px 2px -2px rgba(0,0,0,.2);
+}
+nav ul{
+    display: inline-block;
+}
+a:hover {
+    color: #f7444e;
+}
+h1.name {
+    font-family: 'Poppins';
+    color: #191414;
+    font-weight: bold;
+}
+p.ui {
+    font-family: 'Poppins';
+    color: #f7444e;
+    font-weight: bold;
+}
+p.description {
+    font-family: 'Poppins';
+    color: white;
+    font-weight: 600;
+}
+h1.myworks {
+    color: #f7444e;
+    font-family: 'Poppins';
+    margin-left: 50px;
+    font-weight: 600;
+}
+h1.myskills {
+    color: #f7444e;
+    font-family: 'Poppins';
+    margin-left: 50px;
+    font-weight: 600;
+}
+h1.mycontact {
+    color: #f7444e;
+    font-family: 'Poppins';
+    margin-left: 50px;
+    font-weight: 600;
+}
+p.mywdesc {
+    color: white;
+    font-family: 'Poppins';
+    font-size: 20px;
+    margin-left: 50px;
+}
+p.myexp {
+    color: white;
+    font-family: 'Poppins';
+    font-size: 20px;
+    margin-left: 50px;
+}
+p.myinfo {
+    color: white;
+    font-family: 'Poppins';
+    font-size: 20px;
+    margin-left: 50px;
+}
+div.proj {
+    margin-left: 50px;
+    margin-top: 70px;
+}
+td {
+    padding-top: 20px;
+    padding-left: 50px;
+}
+table {
+    display: flex;
+    margin-left: 1px;
+}
+.container2 {
+    position: relative;
+}
+img.background {
+    width: 100%;
+    height: 93%;
+    opacity: 85%;
+}
+div.home {
+    position: absolute;
+    top: 400px;
+    left: 770px;
+}
+img.logo {
+    margin-left: 275%;
+    border-radius: 200px;
+    margin-top: 120px;
+}
+div.works {
+    margin-top: 50px;
+}
+div.skills {
+    margin-top: 50px;
+}
+div.contact {
+    margin-top: 50px;
+}
+h1.name, p.ui {
+    text-align: center;
+}
+img.background2 {
+    width: 100%;
+    height: 100%;
+    opacity: 70%;
+}
+div.bg2 {
+    position: relative;
+}
+div.selfpic {
+    position: absolute;
+    top: 61%;
+    left: 72%;
+}
+img.self {
+    border-radius: 5px;
+}
+div.desccontain {
+    position: absolute;
+    top: 1185px;
+    left: 170px;
+}
+p.desc {
+    color: white;
+    font-family: 'Poppins';
+    font-size: 15px;
+    
+}
+table {
+    color: white;
+    font-family: 'Roboto';
+}
+button.resume {
+    color: white;
+    background-color: #191414;
+    border-radius: 10px;
+    padding: 5px 5px 5px 5px;
+    font-family: 'Poppins';
+    font-weight: 1000px;
+    margin-left: 450px;
+    margin-top: 280px;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+    cursor: pointer;
+}
+button.resume:hover {
+    color: #f7444e;
+}
+footer {
+    text-align: center;
+    padding: 1px;
+    background-color: #eae8dc;
+}
+p.voltselink {
+    font-family: 'Poppins';
+}
+.bxl-facebook-circle {
+    color: white;
+    font-size: 50px;
+    margin-top: 70px;
+}
+.bxs-phone {
+    color: white;
+    font-size: 50px;
+    margin-top: 70px;
+}
+.bxl-gmail {
+    color: white;
+    font-size: 50px;
+    
+    margin-top: 70px;
+}
+p.fb {
+    color: white;
+    font-family: 'Poppins';
+}
+p.num {
+    color: white;
+    font-family: 'Poppins';
+}
+p.mail {
+    color: white;
+    font-family: 'Poppins';
+}
+div.contacts {
+    text-align: center;
+}
+p.reach {
+    color: #f7444e;
+    font-family: 'Poppins';
+    margin-top: 80px;
+    font-weight: bold;
+}
+.container {
+    margin: 100px auto;
+    width: 500px;
+    text-align: center;
+  }
+  .container3 {
+    margin: 100px auto;
+    width: 500px;
+    text-align: center;
+  }
+  .container4 {
+    margin: 100px auto;
+    width: 500px;
+    text-align: center;
+  }
+  .container5 {
+    margin: 100px auto;
+    width: 500px;
+    text-align: center;
+  }
+  .container6 {
+    margin: 100px auto;
+    width: 500px;
+    text-align: center;
+  }
+.progress2 {
+    padding: 6px;
+    border-radius: 30px;
+    background: rgba(0, 0, 0, 0.25);  
+    box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.25), 0 1px rgba(255, 255, 255, 0.08);
+  }
+  .progress-bar2 {
+    height: 18px;
+    border-radius: 30px;
+    background-image: 
+      linear-gradient(to bottom, rgba(255, 255, 255, 0.3), rgba(255, 255, 255, 0.05));
+    transition: 0.4s linear;  
+    transition-property: width, background-color;    
+  }
+  
+  .progress-moved .progress-bar2 {
+    width: 65%; 
+    background-color: #F7444E;  
+    animation: progressAnimation 6s;
+  }
+  
+  @keyframes progressAnimation {
+    0%   { width: 5%; background-color: #F7444E;}
+    100% { width: 65%; background-color: #F7444E; }
+  }
+  p.phtml {
+    color: white;
+    font-family: 'Poppins';
+}
+.progress3 {
+    padding: 6px;
+    border-radius: 30px;
+    background: rgba(0, 0, 0, 0.25);  
+    box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.25), 0 1px rgba(255, 255, 255, 0.08);
+  }
+  .progress-bar3 {
+    height: 18px;
+    border-radius: 30px;
+    background-image: 
+      linear-gradient(to bottom, rgba(255, 255, 255, 0.3), rgba(255, 255, 255, 0.05));
+    transition: 0.4s linear;  
+    transition-property: width, background-color;    
+  }
+  
+  .progress-moved .progress-bar3 {
+    width: 85%; 
+    background-color: #F7444E;  
+    animation: progressAnimation 6s;
+  }
+  
+  @keyframes progressAnimation {
+    0%   { width: 5%; background-color: #F7444E;}
+    100% { width: 85%; background-color: #F7444E; }
+  }
+  p.pedit {
+    color: white;
+    font-family: 'Poppins';
+}
+.progress4 {
+    padding: 6px;
+    border-radius: 30px;
+    background: rgba(0, 0, 0, 0.25);  
+    box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.25), 0 1px rgba(255, 255, 255, 0.08);
+  }
+  .progress-bar4 {
+    height: 18px;
+    border-radius: 30px;
+    background-image: 
+      linear-gradient(to bottom, rgba(255, 255, 255, 0.3), rgba(255, 255, 255, 0.05));
+    transition: 0.4s linear;  
+    transition-property: width, background-color;    
+  }
+  
+  .progress-moved .progress-bar4 {
+    width: 80%; 
+    background-color: #F7444E;  
+    animation: progressAnimation 6s;
+  }
+  
+  @keyframes progressAnimation {
+    0%   { width: 5%; background-color: #F7444E;}
+    100% { width: 80%; background-color: #F7444E; }
+  }
+  p.pphoto {
+    color: white;
+    font-family: 'Poppins';
+}
+.progress5 {
+    padding: 6px;
+    border-radius: 30px;
+    background: rgba(0, 0, 0, 0.25);  
+    box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.25), 0 1px rgba(255, 255, 255, 0.08);
+  }
+  .progress-bar5 {
+    height: 18px;
+    border-radius: 30px;
+    background-image: 
+      linear-gradient(to bottom, rgba(255, 255, 255, 0.3), rgba(255, 255, 255, 0.05));
+    transition: 0.4s linear;  
+    transition-property: width, background-color;    
+  }
+  
+  .progress-moved .progress-bar5 {
+    width: 90%; 
+    background-color: #F7444E;  
+    animation: progressAnimation 6s;
+  }
+  
+  @keyframes progressAnimation {
+    0%   { width: 5%; background-color: #F7444E;}
+    100% { width: 90%; background-color: #F7444E; }
+  }
+  p.pveg {
+    color: white;
+    font-family: 'Poppins';
+}
+.progress6 {
+    padding: 6px;
+    border-radius: 30px;
+    background: rgba(0, 0, 0, 0.25);  
+    box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.25), 0 1px rgba(255, 255, 255, 0.08);
+  }
+  .progress-bar6 {
+    height: 18px;
+    border-radius: 30px;
+    background-image: 
+      linear-gradient(to bottom, rgba(255, 255, 255, 0.3), rgba(255, 255, 255, 0.05));
+    transition: 0.4s linear;  
+    transition-property: width, background-color;    
+  }
+  
+  .progress-moved .progress-bar6 {
+    width: 75%; 
+    background-color: #F7444E;  
+    animation: progressAnimation 6s;
+  }
+  
+  @keyframes progressAnimation {
+    0%   { width: 5%; background-color: #F7444E;}
+    100% { width: 75%; background-color: #F7444E; }
+  }
+  p.pphotog {
+    color: white;
+    font-family: 'Poppins';
+}
